@@ -17,5 +17,3 @@ def sequence(s)
 
   max_length = [max_length, counter].max
 end
-
-puts sequence('')
