@@ -15,5 +15,5 @@ def sequence(s)
     end
   end
 
-  max_length = [max_length, counter].max
+  [max_length, counter].max
 end
